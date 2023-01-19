@@ -13,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
+        android:scaleType="fitXY"
         app:srcCompat="@drawable/good_morning_img" />
 
     <TextView
